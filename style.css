@@ -4,14 +4,13 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
   color: #df0909;
   background-color:burlywood;
-
-   {
+}
+  .header{
     margin: 0;
     font-family: Arial, sans-serif;
-    position: relative; /* Make body a positioning context */
-}
-
-header {
+    position: relative;
+  }
+{
     background-color: #333;
     color: #fff;
     padding: 10px 20px;
